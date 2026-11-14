@@ -13,5 +13,5 @@
 ## Installation
 1. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/Troisieme-111/VRE-France-project.git](https://github.com/Troisieme-111/VRE-France-project.git)
+   git clone [https://github.com/Troisieme-111/VRE-France-project.git]
    cd VRE-France-project
