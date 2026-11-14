@@ -15,3 +15,6 @@
    ```bash
    git clone [https://github.com/Troisieme-111/VRE-France-project.git](https://github.com/Troisieme-111/VRE-France-project.git)
    cd VRE-France-project
+2. Installer les bibliothèques
+```bash
+   pip install -r requirements.txt
