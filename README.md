@@ -8,7 +8,7 @@
 ## Structure du projet
 * `src/` : Scripts principaux de simulation et d'analyse
 * `data/` : Jeux de données d'entrée (ou instructions pour les télécharger)
-* `notebooks/` : Explorations et graphiques de résultats
+* `notebooks`: Explorations et graphiques de résultats
 
 ## Installation
 1. Cloner le dépôt :
