@@ -6,8 +6,8 @@
 - Predict the VRE power ahead of time.
 
 ## Structure du projet
-* `src/` : Scripts principaux de simulation et d'analyse
-* `data/` : Jeux de données d'entrée (ou instructions pour les télécharger)
+
+* `data/` : Jeux de données d'entrée 
 * `notebooks`: Explorations et graphiques de résultats
 
 ## Installation
