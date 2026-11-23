@@ -68,3 +68,4 @@ wcwidth==0.9.4
 WebOb==1.8.11
 xarray==2026.9.0
 zarr==3.1.6
+scikit-learn
